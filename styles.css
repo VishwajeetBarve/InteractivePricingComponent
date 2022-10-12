@@ -270,7 +270,11 @@ hr{
         flex-direction: column;
         align-items: center;
         background-color: var(--verypaleblue);
-        margin-top: 5%;
+        margin-top: 2%;
+    }
+      
+    .intro{
+     margin-bottom: 10px;
     }
 
     .intro__heading{
